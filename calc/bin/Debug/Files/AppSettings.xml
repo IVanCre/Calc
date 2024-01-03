@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SettingsDoc>
+	<ListenIP host="localhost" port="9000"/>
+	<CoreAppIP host="localhost" port="40000"/>
+  <ThisAppName name="Calc"/>
+</SettingsDoc>
